@@ -1,5 +1,5 @@
 # TikTok API
-## Some API features stopped working on 12-19-2021, trying to find fix
+## Some API features stopped working on 12-19-2021
 ## Introduction:
 The API is for __scraping only__ and gives the ability to access the following data from tiktok:
 
